@@ -1,0 +1,8 @@
+name    'domcleal-foreman_data_binding'
+version '0.1.0'
+source 'git://github.com/domcleal/foreman_data_binding.git'
+author 'domcleal'
+license 'MIT'
+summary 'Foreman smart class parameter data binding terminus for Puppet 3+'
+description 'Data binding terminus for Puppet 3+ that uses Foreman\'s smart class parameters feature to resolve class parameters.  Drop-in replacement for Hiera.'
+project_page 'http://github.com/domcleal/foreman_data_binding'
